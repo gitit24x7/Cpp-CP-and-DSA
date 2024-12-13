@@ -11,3 +11,6 @@
  - Static Member scope: Use the static keyword before any variable declaration,  These variables are shared across all instances of a class and can be accessed using the class name without creating the instance
  - NameSpace Scope:These variables can be accessed using namespace name and scope resolution operator.
 ## For better understanding read this article: https://www.geeksforgeeks.org/scope-of-variables-in-c/
+
+## Function proototype:
+ if we want to define a function after the function call, we need to use the function prototype.
