@@ -1,5 +1,7 @@
 # C++CP and DSA
 
+## Some C++ Fundamentals 
+
 - In C++ local variables are given priority over global variables if the local and global variable names are same, this is called variable shadowing
 - To access a global variable in the shadowing mode, or to access the global variable in the local scope, we can use resolution operator (::)
 
