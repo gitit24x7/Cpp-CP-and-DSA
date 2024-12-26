@@ -16,3 +16,8 @@
 
 ## Function proototype:
  if we want to define a function after the function call, we need to use the function prototype.
+
+## Generic Functions: 
+The way we use normal parameters to pass as a value to function, in the same manner template parameters can be used to pass type as argument to function. Basically, it tells what type of data is being passed to the function. 
+
+- syntax : `template <class  type> return-type function-name (parameter-list)`
